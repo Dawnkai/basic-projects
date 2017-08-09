@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502308633 source:c:\users\faza\desktop\basic-projects\binary to decimal\main.cpp
+	<iostream>
+	<string>
+	<bitset>
+
